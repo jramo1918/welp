@@ -78,7 +78,7 @@
     "@dialexa/pleco-knex": "^0.3.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-promise-router": "^3.0.3",
     "knex": "^0.21.1",
     "lodash": "^4.17.15",
